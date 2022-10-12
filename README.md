@@ -16,5 +16,5 @@ we saved one frame as i and then the next five frames as p, and we did this unti
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/47056654/195435693-e95efe97-2b69-40e1-9ebd-e1cc2a1d8f73.png">
 
-
+original video
 
