@@ -1,5 +1,5 @@
 # Video codec
-In this project, we work on the compression of grayscale and color videos. In the first phase, we implement the encoder and decoder. Furthermore, we implement Huffman coding after the Run-Length step. Our program can generate a file from the coded video in the encoder unit and convert the coded file to video in the decoder unit.
+In this project, we work on the compression of grayscale and color videos. In the first phase, we implement the encoder and decoder. Furthermore, we implement huffman coding after the run-Length step. Our program can generate a file from the coded video in the encoder unit and convert the coded file to video in the decoder unit.
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/47056654/195435384-2de8edd4-5c09-4718-b2a4-6ce57a273dbf.png">
 
@@ -11,7 +11,7 @@ Decoder
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/47056654/195435631-cb02df70-4426-47df-a0bd-610fa684a7cf.png">
 
-In the second phase, we add Motion Estimation to the Encoder and Decoder of the first phase. We save one frame as I and then the next five frames as P, and we do this until the last. I-frame is the same frame in the video, and P-frame is the difference between that frame and frame i.
+In the second phase, we add motion estimation to the encoder and decoder of the first phase. We save one frame as I, then the next five frames as P, and do this until the end of the video. I-frame is the same frame in the original video, and P-frame is the difference between the current frame and frame i.
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/47056654/195435693-e95efe97-2b69-40e1-9ebd-e1cc2a1d8f73.png">
 
