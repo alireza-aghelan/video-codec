@@ -15,11 +15,11 @@ In the second phase, we add Motion Estimation to the Encoder and Decoder of the 
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/47056654/195435693-e95efe97-2b69-40e1-9ebd-e1cc2a1d8f73.png">
 
-original video
+Original video
 
 https://user-images.githubusercontent.com/47056654/195437577-b6fa4507-609c-4908-b2cf-858785102e5c.mp4
 
-decompressed_video
+Decompressed video
 
 https://user-images.githubusercontent.com/47056654/195436192-fe22b590-0a63-470f-aad7-f8f5d22be10f.mp4
 
