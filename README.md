@@ -1,5 +1,5 @@
 # Video codec
-In this project, we worked on the compression of grayscale and color videos. In the first phase, we implemented the encoder and decoder. also, we implemented Huffman coding after the Run-Length step. our program can generate a file from the coded video in the encoder unit and convert the coded file to video in the decoder unit.
+In this project, we worked on the compression of grayscale and color videos. In the first phase, we implemented the encoder and decoder. Furthermore, we implemented Huffman coding after the Run-Length step. Our program can generate a file from the coded video in the encoder unit and convert the coded file to video in the decoder unit.
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/47056654/195435384-2de8edd4-5c09-4718-b2a4-6ce57a273dbf.png">
 
