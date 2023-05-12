@@ -11,7 +11,7 @@ Decoder
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/47056654/195435631-cb02df70-4426-47df-a0bd-610fa684a7cf.png">
 
-In the second phase, we add Motion Estimation to the Encoder and Decoder of the first phase. We save one frame as i and then the next five frames as p, and we do this until the last. Frame i is the same frame in the video, and the frames saved as p are the difference between that frame and frame i.
+In the second phase, we add Motion Estimation to the Encoder and Decoder of the first phase. We save one frame as I and then the next five frames as P, and we do this until the last. I-frame is the same frame in the video, and P-frame is the difference between that frame and frame i.
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/47056654/195435693-e95efe97-2b69-40e1-9ebd-e1cc2a1d8f73.png">
 
