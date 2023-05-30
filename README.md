@@ -15,11 +15,7 @@ In the second phase, we add motion estimation to the encoder and decoder of the 
 
 ![4](https://github.com/alireza-aghelan/video-codec/assets/47056654/527a142e-6f96-47d2-8b1e-a1f83b58109c)
 
-Original video
-
-
-
-Decompressed video
+https://github.com/alireza-aghelan/video-codec/assets/47056654/b7306b8d-3ad4-4691-9ceb-148478121cf2
 
 https://github.com/alireza-aghelan/video-codec/assets/47056654/8b1bf4a9-40ca-4b7b-a3e5-4526f4f2554e
 
