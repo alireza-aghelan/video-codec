@@ -17,4 +17,10 @@ In the second phase, we add motion estimation to the encoder and decoder of the 
 
 Original video
 
+
+
 Decompressed video
+
+https://github.com/alireza-aghelan/video-codec/assets/47056654/8b1bf4a9-40ca-4b7b-a3e5-4526f4f2554e
+
+
